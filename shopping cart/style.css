@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+
+  }
+  .template{
+    flex-wrap: wrap;
+}
+
+.nav{
+    width: 100%;
+    height:100px;
+    display: flex;
+    gap: 4%;
+    background-color: rgba(10, 10, 10, 0.6);;
+    color: antiquewhite; 
+    
+}
+.logo{
+    margin-left: 3%;
+    margin-right: 60px;
+    margin-top: 0px;
+
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: orange;
+}
+  .ab {
+    text-align: center;
+    margin-top: 0%;
+    position: relative;
+    top: 80px;
+   
+  }
+  
+  .cart {
+    border: 1px solid #ddd;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 120px;
+    line-height: 0;
+   
+    
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  button {
+    display: block;
+    margin-top: 10px;
+  }
+ .container{
+    background-image: url('ecommerce-online-shop-euro-thumbnail.jpg');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+ }
+ .bt{
+  position: relative;
+  left: 120px;
+  border-radius: 20px;
+  height: 30px;
+
+ }
+ .search{
+  margin-top: 20px;
+  margin-left: 100px;
+ 
+ 
+ }
+ .s{
+  
+  border-color: white;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 30px;
+  font: red;
+  
+  background: transparent;
+  border: 3px  solid white;
+  border-right: none;
+ }
+ .btn{
+  
+  position: relative;
+  border: 3px  solid white;
+  border-left: none;
+  
+  
+  right: 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 30px;
+ }
+ h2{
+  text-align: center;
+
+  }
+.sc{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
